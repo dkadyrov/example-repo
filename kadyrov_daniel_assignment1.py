@@ -7,7 +7,7 @@ height_inches = 11
 
 total_height_in_inches = height_feet * 12 + height_inches
 
-list_of_interests = ["Surfing", "Biking", "Surfing"]
+list_of_interests = ["Surfing", "Biking", "Surfing", "Eating"]
 
 profile = {
     "First": first_name, 
